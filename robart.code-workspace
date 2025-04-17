@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "robart-firmware-arduino",
+			"path": "robart-firmware-arduino"
+		}
+	],
+	"settings": {
+		"explorer.sortOrder": "modified"
+	}
+}
