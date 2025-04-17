@@ -1,0 +1,6 @@
+[submodule "robart-firmware-arduino"]
+	path = robart-firmware-arduino
+	url = https://github.com/cnichte/robart-firmware-arduino.git
+[submodule "robart-app-swiftui"]
+	path = robart-app-swiftui
+	url = https://github.com/cnichte/robart-app-swiftui.git
